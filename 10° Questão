@@ -5,10 +5,7 @@
 
 int main (){
 
-setlocale (LC_ALL, "portuguese");
-
-
-int operation;
+   
 int y;
 int x;
 int soma = 0;
